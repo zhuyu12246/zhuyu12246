@@ -33,7 +33,10 @@
 ---
 
 ### 🌸 Featured Projects
-<a href="[mailto:yuyuzhu@example.com](https://gitee.com/baihaowen)">Previous code</a>
+<a href="https://gitee.com/baihaowen">
+  <img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" />
+</a>
+
 
 ---
 
@@ -45,8 +48,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yuyuzhu/yuyuzhu/output/snake.svg" alt="snake animation" />
-</p>
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
