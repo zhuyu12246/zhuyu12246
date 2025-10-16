@@ -1,5 +1,5 @@
 <!-- 个人主页 README -->
-<h1 align="center">👋 Hello、I'm Yuyu Zhu!</h1>
+<h1 align="center">👋 Hello、I'm ZhuYu12246!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+AI+Researcher;Medical+Image+Processing+%26+Deep+Learning;Exploring+Multimodal+Vision+%F0%9F%8E%89" alt="Typing SVG" />
