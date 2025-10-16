@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-- 🌍 Based in **Japan**, studying and researching **AI + Medical Image Processing**.  
+- 🌍 studying and researching **AI + Medical Image Processing**.  
 - 💻 Full-stack developer experienced in **Python, Flutter, Vue, Node.js, and more.**  
 - 🧬 Current research: **Multimodal learning for retinal image segmentation**.  
 - 🎯 Passionate about combining **deep learning**, **medical imaging**, and **graph neural networks (GNNs)**.  
@@ -32,32 +32,14 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yuyuzhu&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuyuzhu&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyuzhu&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🌸 Featured Projects
-| 🧠 Project | 💡 Description | 🔗 Link |
-|-------------|----------------|---------|
-| **MVG-UNet** | Multimodal Vision Graph Network for Medical Image Segmentation | [🔍 View Repo](#) |
-| **MC Server Manager** | Cross-platform Flutter desktop app for Minecraft server management | [🖥️ View Repo](#) |
-| **AI Research Tools** | Python tools for AI experiments & visualization | [📘 View Repo](#) |
+<a href="[mailto:yuyuzhu@example.com](https://gitee.com/baihaowen)">Previous code</a>
 
 ---
 
 ### 💬 Connect With Me
 <p align="center">
-  <a href="mailto:yuyuzhu@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yuyuzhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://bilibili.com"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"></a>
+  <a href="mailto:zhuyugg12246@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/yuyuzhu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
